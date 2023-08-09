@@ -2,7 +2,7 @@
 
 Welcome to the repository for "Simply Chocolate" - an exquisite landing-page project that embodies Full Stack Development expertise. This captivating platform is dedicated to a chocolate shop, offering an array of gourmet chocolate products.
 
-![Website Screenshot](screenshot.png)
+![Website Screenshot](https://github.com/CipherSeeker/simply-chocolate/blob/main/Hero.avif)
 
 ## Project Overview
 
